@@ -48,6 +48,7 @@ roundoff-errors.
 
 The algorithm is meant to be used on numeric data representing integers.
 }
+
 \examples{
 library(validate)
 
@@ -89,4 +90,3 @@ Statistics Netherlands, Discussion Paper \href{https://www.cbs.nl/nl-nl/achtergr
 }
 }
 }
-

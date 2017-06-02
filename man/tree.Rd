@@ -22,4 +22,3 @@ sol
 Solve an optimization problem using a tree algorithm as described in Scholtus (2009)
 }
 \keyword{internal}
-

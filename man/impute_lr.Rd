@@ -31,4 +31,3 @@ dat <- data.frame(x=NA_real_,y=NA_real_,z=NA_real_)
 impute_lr(dat,v)
 
 }
-
