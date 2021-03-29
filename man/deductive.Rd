@@ -3,8 +3,8 @@
 \docType{package}
 \name{deductive}
 \alias{deductive}
-\alias{deductive-package}
 \title{Deductive Data Correction and Imputation}
 \description{
-Deductive Data Correction and Imputation
+Use data validation restrictions to estimate missing values
+or trace and repair certain errors.
 }
